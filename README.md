@@ -1,7 +1,8 @@
-# pig-game-using-javascript
-
+# Pig Game
 
 Pig-game(ludo) is a classic board game played between friends and family. Play the dice game of kings! Recall your childhood!
+
+https://pig-game-v2.netlify.app
 
 
 ## GAME RULES:
