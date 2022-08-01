@@ -15,3 +15,7 @@ Pig-game(ludo) is a classic board game played between friends and family. Play t
 
 ## How to win:
 The player with the greater value on the side of the dice wins.
+
+
+## Pig game UI:
+![pig-game-UI](https://user-images.githubusercontent.com/51159897/182232277-88f87311-1d66-4daf-8def-236e9e25a0ba.png)
